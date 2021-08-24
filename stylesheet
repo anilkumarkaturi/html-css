@@ -1,0 +1,44 @@
+body{
+ background-color:yellow;
+}
+h1,h2,h3{
+ color:red;
+ font-size:45px;
+ text-decoration:underline;
+}
+.para{
+ font-size:30px;
+ border-color:gold;
+ border-style:solid;
+ border-width:2px;
+ background-image:url(clouds_1.gif);
+}
+h4{
+  font-size:45px;
+  color:red;
+  text-decoration:underline;
+}
+p.special{
+  font-size:30px;
+  color:gold;
+}
+.image{
+ display:block;
+ margin-left:auto;
+ margin-right:auto;
+ background-color:silver;
+ border-color:gold;
+ border-style:solid;
+ border-width:2px;
+}
+a:link{
+ color:purple;
+}
+a:visited{
+ color:grey;
+}
+a:hover{
+ color:orange;
+}
+ 
+
